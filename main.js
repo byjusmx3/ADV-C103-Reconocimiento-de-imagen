@@ -25,7 +25,7 @@ classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models
 
   // Cuando el modelo está cargado.
   function modelLoaded() {
-    console.log('Model Loaded!');
+    console.log('¡Modelo cargado!');
   }
       
   function check()
